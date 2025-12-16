@@ -1,0 +1,41 @@
+ID,Product,Category,Sub_Category,Price,Stock,Daily_Sales,Rating,Expiry_Date
+1,Apple iPhone 15,Electronics,Mobile,999,3,12,4.8,2024-12-15
+2,Samsung Galaxy S24,Electronics,Mobile,899,2,18,4.7,2023-11-20
+3,Sony Headphones,Electronics,Accessories,199,45,7,4.5,2027-05-10
+4,Dell Laptop,Electronics,Laptop,1200,8,9,4.6,2026-12-01
+5,HP Laptop,Electronics,Laptop,1100,4,11,4.5,2025-11-25
+6,Nike Shoes,Fashion,Shoes,150,25,28,4.6,2027-08-15
+7,Adidas Sneakers,Fashion,Shoes,140,5,32,4.5,2024-09-10
+8,Puma T-Shirt,Fashion,Clothes,30,60,38,4.4,2027-06-01
+9,Levi Jeans,Fashion,Clothes,60,18,36,4.5,2025-07-20
+10,Ray-Ban Sunglasses,Fashion,Accessories,120,2,22,4.7,2023-12-05
+11,Organic Milk,Grocery,Dairy,5,12,48,4.8,2024-12-20
+12,Almonds,Grocery,Nuts,15,6,27,4.7,2023-01-05
+13,Rice 5kg,Grocery,Grains,20,32,42,4.6,2027-01-15
+14,Olive Oil,Grocery,Oil,25,15,21,4.5,2025-06-10
+15,Dark Chocolate,Grocery,Confectionery,10,7,16,4.6,2024-03-01
+16,Toy Car,Toys,Vehicle,15,50,12,4.5,2028-05-10
+17,Lego Set,Toys,Building,60,6,9,4.8,2028-12-01
+18,Barbie Doll,Toys,Doll,25,10,17,4.6,2026-06-20
+19,Football,Toys,Sports,30,3,28,4.5,2024-09-15
+20,Basketball,Toys,Sports,28,9,21,4.4,2025-07-10
+21,Office Chair,Furniture,Seating,120,5,3,4.5,2030-01-01
+22,Dining Table,Furniture,Table,500,2,1,4.6,2024-02-10
+23,Bookshelf,Furniture,Storage,200,3,2,4.4,2023-03-20
+24,Sofa Set,Furniture,Seating,800,1,1,4.7,2030-05-05
+25,Coffee Table,Furniture,Table,150,4,2,4.5,2026-06-15
+26,Notebook,Stationery,Paper,3,110,42,4.7,2029-12-31
+27,Ballpoint Pen,Stationery,Writing,1,190,58,4.6,2029-12-31
+28,Marker,Stationery,Writing,2,140,33,4.5,2029-12-31
+29,Sticky Notes,Stationery,Paper,2,55,21,4.5,2024-12-31
+30,Printer Paper,Stationery,Paper,5,28,26,4.6,2025-12-31
+31,Smart Watch,Electronics,Accessories,250,5,14,4.7,2024-04-15
+32,Tablet,Electronics,Mobile,400,4,19,4.6,2025-05-20
+33,Wireless Mouse,Electronics,Accessories,25,18,11,4.5,2027-03-10
+34,Keyboard,Electronics,Accessories,30,13,9,4.5,2027-06-05
+35,Charger,Electronics,Accessories,20,55,23,4.4,2027-02-15
+36,Running Shoes,Fashion,Shoes,120,11,27,4.6,2026-08-10
+37,Sports Shorts,Fashion,Clothes,35,22,31,4.5,2025-09-01
+38,Socks,Fashion,Clothes,5,105,52,4.4,2027-07-10
+39,T-Shirt,Fashion,Clothes,25,32,41,4.5,2027-05-15
+40,Jacket,Fashion,Clothes,80,4,16,4.6,2024-12-01
