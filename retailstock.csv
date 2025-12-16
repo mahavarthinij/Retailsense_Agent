@@ -38,4 +38,5 @@ ID,Product,Category,Sub_Category,Price,Stock,Daily_Sales,Rating,Expiry_Date
 37,Sports Shorts,Fashion,Clothes,35,22,31,4.5,2025-09-01
 38,Socks,Fashion,Clothes,5,105,52,4.4,2027-07-10
 39,T-Shirt,Fashion,Clothes,25,32,41,4.5,2027-05-15
+
 40,Jacket,Fashion,Clothes,80,4,16,4.6,2024-12-01
