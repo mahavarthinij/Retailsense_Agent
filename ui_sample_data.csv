@@ -1,0 +1,11 @@
+ID,Product,Category,Sub_Category,Price,Stock,Daily_Sales,Rating,Expiry_Date,Supplier_ID,Supplier_Name,Lead_Time_Days,EmailID
+1,Apple iPhone 15,Electronics,Mobile,999,3,15,4.8,2024-12-15,S001,ABC Electronics,3,abc@electronics.com
+2,Samsung Galaxy S24,Electronics,Mobile,899,2,16,4.7,2020-11-20,S002,XYZ Mobiles,5,xyz@mobiles.com
+3,Sony Headphones,Electronics,Accessories,199,10,7,4.5,2027-05-10,S003,SoundTech Pvt Ltd,4,sound@tech.com
+4,Dell Laptop,Electronics,Laptop,1200,8,9,4.6,2026-12-01,S004,Dell India,6,dell@support.com
+5,HP Laptop,Electronics,Laptop,1100,4,11,4.5,2025-11-25,S005,HP Suppliers,5,hp@suppliers.com
+6,Nike Shoes,Fashion,Shoes,150,25,28,4.6,2027-08-15,S006,Nike India,7,nike@fashion.com
+7,Adidas Sneakers,Fashion,Shoes,140,5,10,1.1,2024-09-10,S007,Adidas India,6,adidas@fashion.com
+8,Puma T-Shirt,Fashion,Clothes,30,60,38,4.4,2027-06-01,S008,Puma Textiles,4,puma@fashion.com
+9,Levi Jeans,Fashion,Clothes,60,18,36,4.5,2025-07-20,S009,Levi Strauss,5,levis@fashion.com
+10,Ray-Ban Sunglasses,Fashion,Accessories,100,2,22,4.7,2023-12-05,S010,Luxottica,3,lux@optics.com
