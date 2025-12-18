@@ -1,0 +1,4 @@
+Product PROD_1 has a reorder threshold of 10 units.
+When stock falls below threshold, an alert must be triggered.
+RetailSense runs inventory checks every 48 hours.
+Email alerts are sent to the store manager.
