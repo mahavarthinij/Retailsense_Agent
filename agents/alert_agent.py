@@ -25,24 +25,14 @@ class AlertAgent:
 
         print("📧 Email sent successfully")
 
-    def handle(self, product, stock):
-        print(f"🚧 AlertAgent called for {product}, stock={stock}")
+    def handle(self, product_id, stock, reasoning):
+        subject = f"🚨 Low Stock Alert: {product_id}"
+        body = f"""
+           Product: {product_id}
+            Stock: {stock}
 
-        decision = decide(
-            f"Product {product} stock is {stock}. Should we send alert email?"
-        )
+            Reason:
+           {reasoning}
+               """
+        self.send_email(subject, body)
 
-        print("🤖 LLM decision:", decision)
-
-        if decision and "YES" in decision.upper():
-            subject = f"🚨 Low Stock Alert: {product}"
-            body = (
-                f"Product ID: {product}\n"
-                f"Current Stock: {stock}\n\n"
-                f"Action Required: Please restock immediately."
-            )
-
-            self.send_email(subject, body)
-            print(f"🚨 ALERT EMAIL SENT for {product}")
-        else:
-            print(f"ℹ️ Alert suppressed for {product}")

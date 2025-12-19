@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "product_id": "PROD_1",
+      "stock": 3,
+      "threshold": 10,
+      "email": "supervisorrsa41@gmail.com"
+    },
+    {
+      "product_id": "PROD_2",
+      "stock": 50,
+      "threshold": 10,
+      "email": "your_email@gmail.com"
+    }
+  ]
+}
